@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img style="width:34px; align=center;" src="https://user-images.githubusercontent.com/67386158/192907494-f3181021-5857-477d-a563-8c8b7fa98c6d.png"> Hello, I'm Sai
+  👋 Hello, I'm Sai
 </h1>
 
 <p align="center">
